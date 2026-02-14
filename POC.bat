@@ -1,0 +1,2 @@
+call Playground.exe
+pause()
